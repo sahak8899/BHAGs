@@ -1,0 +1,1 @@
+export const stepDataSelector = (state) => state.steps?.stepList;
